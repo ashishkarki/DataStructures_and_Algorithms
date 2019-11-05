@@ -3,7 +3,7 @@ package dataStructures;
 import org.junit.Before;
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 public class DynamicArrayTest {
 
@@ -40,5 +40,32 @@ public class DynamicArrayTest {
         assertEquals("d", testDynamicArray.get(1));
         assertEquals("b", testDynamicArray.get(2));
         assertEquals("c", testDynamicArray.get(3));
+    }
+
+    @Test
+    final public void Delete() {
+        testDynamicArray.add("a");
+        testDynamicArray.add("b");
+        testDynamicArray.add("c");
+
+        testDynamicArray.delete(1);
+
+        assertEquals(2, testDynamicArray.getSize());
+        assertEquals("a", testDynamicArray.get(0));
+        assertEquals("c", testDynamicArray.get(1));
+    }
+
+    @Test
+    final public void isEmpty() {
+        assertTrue(testDynamicArray.isEmpty());
+        testDynamicArray.add("a");
+        assertFalse(testDynamicArray.isEmpty());
+    }
+
+    @Test
+    public void Contains()  {
+        assertFalse(testDynamicArray.contains("a"));
+        testDynamicArray.add("a");
+        assertTrue(testDynamicArray.contains("a"));
     }
 }

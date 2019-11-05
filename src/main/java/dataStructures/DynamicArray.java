@@ -1,5 +1,9 @@
 package dataStructures;
 
+import java.util.Arrays;
+import java.util.function.Predicate;
+import java.util.stream.Collectors;
+
 public class DynamicArray<T> {
 
     private Object[] data;
@@ -37,15 +41,23 @@ public class DynamicArray<T> {
         size++;
     }
 
+    // O(n) operation : at max we move n elements
     public void delete(int index) {
+        for (int i = index; i < size - 1; i++) {
+            data[i] = data[i + 1];
+        }
+
+        size--;
     }
 
     public boolean isEmpty() {
-        return false;
+        return size == 0;
     }
 
+    // O(n) operation : at max we move n elements
     public boolean contains(T value) {
-        return false;
+        return Arrays.stream(data)
+                .anyMatch(value::equals);
     }
 
     public int getSize() {
