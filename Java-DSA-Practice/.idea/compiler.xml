@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DataStructures_and_Algorithms" />
+        <module name="Java-DSA-Practice" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DataStructures_and_Algorithms" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
