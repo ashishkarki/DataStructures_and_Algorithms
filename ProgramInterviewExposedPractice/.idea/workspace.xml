@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15ba02be-3283-4df1-8dd2-fbad2b33fa18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1We8VO23gsjr9dXK1YyKkKxmOEJ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/dataStructures/linkedList" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dataStructures.linkedList" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sushma Karki\Desktop\ashish-temp-disposable\interview-prep\ProgramInterviewExposedPractice\src\main\java\dataStructures\linkedList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LinkedListTest">
+    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgramInterviewExposedPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructures.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dataStructures.linkedList" />
+      <option name="MAIN_CLASS_NAME" value="dataStructures.linkedList.LinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.deleteNode_returnsTrue_if_DeleteNodeIsHead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgramInterviewExposedPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructures.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dataStructures.linkedList" />
+      <option name="MAIN_CLASS_NAME" value="dataStructures.linkedList.LinkedListTest" />
+      <option name="METHOD_NAME" value="deleteNode_returnsTrue_if_DeleteNodeIsHead" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.insertInFront_creates_and_returns_newNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgramInterviewExposedPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructures.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dataStructures.linkedList" />
+      <option name="MAIN_CLASS_NAME" value="dataStructures.linkedList.LinkedListTest" />
+      <option name="METHOD_NAME" value="insertInFront_creates_and_returns_newNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.insertInFront_returns_newlyInsertedNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgramInterviewExposedPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructures.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dataStructures.linkedList" />
+      <option name="MAIN_CLASS_NAME" value="dataStructures.linkedList.LinkedListTest" />
+      <option name="METHOD_NAME" value="insertInFront_returns_newlyInsertedNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinkedListTest" />
+        <item itemvalue="JUnit.LinkedListTest.deleteNode_returnsTrue_if_DeleteNodeIsHead" />
+        <item itemvalue="JUnit.LinkedListTest.insertInFront_creates_and_returns_newNode" />
+        <item itemvalue="JUnit.LinkedListTest.insertInFront_returns_newlyInsertedNode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15ba02be-3283-4df1-8dd2-fbad2b33fa18" name="Default Changelist" comment="" />
+      <created>1579498722891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579498722891</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="5" key="#Project_Structure" timestamp="1579499458596">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="5" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1579499458596" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1579511916362">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1579511916362" />
+    <state x="299" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579501875288">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="299" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.689@0.0.1280.689" timestamp="1579501875288" />
+    <state width="447" height="618" key="DebuggerActiveHint" timestamp="1579505752388">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="447" height="618" key="DebuggerActiveHint/0.0.1280.689@0.0.1280.689" timestamp="1579505752388" />
+    <state width="1281" height="200" key="GridCell.Tab.0.bottom" timestamp="1579522619685">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="200" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1579522619685" />
+    <state width="1281" height="200" key="GridCell.Tab.0.center" timestamp="1579522619684">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="200" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1579522619684" />
+    <state width="1281" height="200" key="GridCell.Tab.0.left" timestamp="1579522619684">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="200" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1579522619684" />
+    <state width="1281" height="200" key="GridCell.Tab.0.right" timestamp="1579522619684">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="200" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1579522619684" />
+    <state width="1281" height="200" key="GridCell.Tab.1.bottom" timestamp="1579522619686">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="200" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1579522619686" />
+    <state width="1281" height="200" key="GridCell.Tab.1.center" timestamp="1579522619685">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="200" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1579522619685" />
+    <state width="1281" height="200" key="GridCell.Tab.1.left" timestamp="1579522619685">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="200" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1579522619685" />
+    <state width="1281" height="200" key="GridCell.Tab.1.right" timestamp="1579522619685">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1281" height="200" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1579522619685" />
+    <state x="221" y="81" key="IDE.errors.dialog" timestamp="1579503168411">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="221" y="81" key="IDE.errors.dialog/0.0.1280.689@0.0.1280.689" timestamp="1579503168411" />
+    <state x="171" y="1" key="Maven.ArtifactSearchDialog" timestamp="1579498786597">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="171" y="1" key="Maven.ArtifactSearchDialog/0.0.1280.689@0.0.1280.689" timestamp="1579498786597" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1579499473045">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1579499473045" />
+    <state x="412" y="47" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579498876582">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="412" y="47" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.689@0.0.1280.689" timestamp="1579498876582" />
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1579511918470">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.689@0.0.1280.689" timestamp="1579511918470" />
+  </component>
+</project>
